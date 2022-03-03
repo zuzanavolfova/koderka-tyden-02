@@ -34,3 +34,6 @@ Lepší varianta je naučit se prakticky pracovat s Gitem a GitHubem a repozitá
    ```
 
 5. Ve tvé složce (u mě *KODERKA*) se vytvoří složka `koderka-tyden-02` a do ní se zkopírují všechny potřebné soubory.
+
+
+pokus pokus
